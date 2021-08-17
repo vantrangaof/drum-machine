@@ -1,0 +1,30 @@
+body {
+background-color: #333333;
+background-image: url("https://img5.goodfon.com/wallpaper/nbig/e/64/koshka-fotostudiia-temnyi-fon-kot-vzgliad-mordochka-poza-che.jpg");
+background-repeat: no-repeat;
+background-size: cover;
+font-family: Poppins, Arial;
+}
+
+#drum-machine {
+    background-color: rgba(27, 27, 26, 0.305);
+    min-width: 300px;
+    max-width: 600px;
+    margin: 200px auto 500px;
+    border: 2px solid silver;
+    text-align: center;
+    padding: 10px;
+}
+
+.drum-pad{
+    background-color: rgba(0, 0, 0, 0.339);
+}
+p{
+    font-style: italic;
+    padding-bottom: 20px;
+    font-size: 13px;
+    color: gray;
+}
+h4{
+    padding-top: 30px;
+}
